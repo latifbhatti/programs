@@ -29,6 +29,9 @@ Class Definition (word_reverser):
 
 To run ocml program:
 Firstly compile the program through this command
+
 ```ocamlc -o reverse_file reverse_file.ml```
-then run the ocaml program
+
+Then execute the compiled file using the following command
+
 ``` ./reverse_file < input.txt```
