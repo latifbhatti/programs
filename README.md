@@ -13,4 +13,3 @@ and pass the 10 cases
 
 to run python program with
 ```pytest python_program.py```
-
